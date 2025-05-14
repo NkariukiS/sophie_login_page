@@ -2,7 +2,7 @@ import { initializeApp } from "firebase/app";
 import { getAuth, GoogleAuthProvider, FacebookAuthProvider } from "firebase/auth";
 
 const firebaseConfig = {
-  apiKey: "AIzaSyDhoAQ2GZZ7aYSeraHFXePWEJipZe2eePQ",
+  apiKey: "YOUR_API_KEY",
   authDomain: "sophielogin-e58ad.firebaseapp.com",
   projectId: "sophielogin-e58ad",
   appId: "AIzaSyDhoAQ2GZZ7aYSeraHFXePWEJipZe2eePQ",
